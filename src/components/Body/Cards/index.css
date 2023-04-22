@@ -1,0 +1,14 @@
+.card{
+   
+    border: 1px solid black;
+    max-width:22%;
+    height: 480px;
+   
+   
+    
+}
+#img-id{
+    width: 100%;
+}
+
+Link {outline : none;}

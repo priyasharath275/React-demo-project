@@ -1,0 +1,12 @@
+.body{
+    margin: 0 10rem ;
+    position: relative;
+   
+}
+.body-items{
+    display: flex;
+ 
+    gap:20px;
+    flex-wrap:wrap;
+    flex:1;
+}

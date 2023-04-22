@@ -1,0 +1,26 @@
+.header{
+  max-width: 1400px;
+    min-width: 1400px;
+    height: 100px;
+    background: #fff;
+    margin-left: 10rem;
+    display: inline-flex;
+    text-align: center;
+
+}
+.header-items{
+    display: flex;   
+      flex: 1;
+      align-items: center;
+     justify-content: flex-end;
+     gap: 20px;
+
+}
+a{
+    width: 10%;
+}
+
+#img-logo{
+    width: 70%;
+}
+
